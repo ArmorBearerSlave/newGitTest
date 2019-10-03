@@ -13,3 +13,26 @@ Navigate to the directory of your first and second folder in different CLIs.  Us
 
 D:\Source Control Tutorial\Test_Folder_1>cd newGitTest
 
+### Step 3
+
+Create an HTML file in each folder named "index.html" and "index2.html", respectively.
+
+### Step 4
+
+Use the git command "git status" in the CLI.
+
+D:\Source Control Tutorial\Test_Folder_1\newGitTest>git status
+
+#### Result
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+
+
