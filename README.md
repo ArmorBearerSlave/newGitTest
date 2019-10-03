@@ -147,3 +147,33 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         modified:   index.html
         new file:   index2.html
+  
+  ### Step 15
+  
+  (base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git commit -m "make changes"
+[master 1de0873] make changes
+ 2 files changed, 7 insertions(+)
+ create mode 100644 index2.html
+
+### Step 16
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git push
+To https://github.com/ArmorBearerSlave/newGitTest.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/ArmorBearerSlave/newGitTest.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+ ### Step 17
+ 
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>get pull
+'get' is not recognized as an internal or external command,
+operable program or batch file.
+
+### Step 18
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>get push
+'get' is not recognized as an internal or external command,
+operable program or batch file.
