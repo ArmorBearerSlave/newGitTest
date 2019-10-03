@@ -177,3 +177,18 @@ operable program or batch file.
 (base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>get push
 'get' is not recognized as an internal or external command,
 operable program or batch file.
+
+### Step 19
+
+(base) D:\Source Control Tutorial\Test_Folder_1\newGitTest>git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/ArmorBearerSlave/newGitTest
+   7bde092..68fbbd3  master     -> origin/master
+Updating fe3025f..68fbbd3
+Fast-forward
+ README.md | 179 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 178 insertions(+), 1 deletion(-)
