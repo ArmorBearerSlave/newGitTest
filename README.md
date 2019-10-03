@@ -83,5 +83,22 @@ To https://github.com/ArmorBearerSlave/newGitTest.git
 
 View file on Github in the webbroswer.  To view refresh webpage.
 
+### Step 10
 
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git pull
 
+#### Result
+
+remote: Enumerating objects: 26, done.
+remote: Counting objects: 100% (26/26), done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 24 (delta 6), reused 3 (delta 0), pack-reused 0
+Unpacking objects: 100% (24/24), done.
+From https://github.com/ArmorBearerSlave/newGitTest
+   687a78b..cd3ee26  master     -> origin/master
+Updating 687a78b..cd3ee26
+Fast-forward
+ README.md  | 87 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ index.html | 11 ++++++++
+ 2 files changed, 97 insertions(+), 1 deletion(-)
+ create mode 100644 index.html
