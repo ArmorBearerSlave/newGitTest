@@ -54,6 +54,30 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   index.html
 
+### Step 7
+
+(base) D:\Source Control Tutorial\Test_Folder_1\newGitTest>git commit -m "added index.html"
+
+#### Result
+
+[master fe3025f] added index.html
+ 1 file changed, 11 insertions(+)
+ create mode 100644 index.html
+ 
+ ### Step 8
+
+(base) D:\Source Control Tutorial\Test_Folder_1\newGitTest>git push
+
+#### Result
+
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 357 bytes | 178.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/ArmorBearerSlave/newGitTest.git
+   687a78b..fe3025f  master -> master
 
 
 
