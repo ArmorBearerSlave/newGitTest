@@ -128,3 +128,22 @@ Untracked files:
         index2.html
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+### Step 13
+
+Add all the files with "git add -A".
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git add -A
+
+### Step 14
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git status
+
+On branch master
+Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+        new file:   index2.html
