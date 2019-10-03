@@ -79,5 +79,9 @@ Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/ArmorBearerSlave/newGitTest.git
    687a78b..fe3025f  master -> master
 
+### Step 9
+
+View file on Github in the webbroswer.  To view refresh webpage.
+
 
 
