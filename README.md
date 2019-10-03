@@ -102,3 +102,11 @@ Fast-forward
  index.html | 11 ++++++++
  2 files changed, 97 insertions(+), 1 deletion(-)
  create mode 100644 index.html
+ 
+ ### Step 11
+ 
+ Open and modify the pulled file.
+ 
+ ### Step 12
+ 
+ 
