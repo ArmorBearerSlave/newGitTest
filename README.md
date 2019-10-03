@@ -192,3 +192,30 @@ Updating fe3025f..68fbbd3
 Fast-forward
  README.md | 179 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
  1 file changed, 178 insertions(+), 1 deletion(-)
+ 
+ ## Further Steps
+ (base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>get push
+'get' is not recognized as an internal or external command,
+operable program or batch file.
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git pull
+Merge made by the 'recursive' strategy.
+ README.md | 107 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 107 insertions(+)
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git pust
+git: 'pust' is not a git command. See 'git --help'.
+
+The most similar command is
+        push
+
+(base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git push
+Enumerating objects: 10, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 706 bytes | 235.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/ArmorBearerSlave/newGitTest.git
+   abf9bd1..e832a2f  master -> master
