@@ -109,4 +109,22 @@ Fast-forward
  
  ### Step 12
  
+ Go to the CLI directory of this file and apply "git status".
  
+ (base) D:\Source Control Tutorial\Test_Folder_2\newGitTest>git status
+ 
+ #### Result
+On branch master
+Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index2.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
