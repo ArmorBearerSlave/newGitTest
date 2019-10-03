@@ -33,6 +33,27 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+### Step 5
+
+Use the git command "git add" to add the first file "index.html" to be committed.
+
+D:\Source Control Tutorial\Test_Folder_1\newGitTest>git add index.html
+
+### Step 6
+
+Check the status.
+
+(base) D:\Source Control Tutorial\Test_Folder_1\newGitTest>git status
+
+#### Result
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   index.html
+
 
 
 
